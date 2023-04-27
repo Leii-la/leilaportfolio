@@ -2336,10 +2336,10 @@ a {
   width: 70%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .uiux span::after {
-  content: "70%";
+  content: "40%";
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .app span {
-  width: 60%;
+  width: 40%;
 }
 .experience-area .tab-item .skills-part .skills-bar .bar .app span::after {
   content: "60%";
